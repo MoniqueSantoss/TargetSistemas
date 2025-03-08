@@ -1,0 +1,15 @@
+C:\Unip\c#\ConsoleAula02_Operadores\bin\Debug\net6.0\ConsoleAula02_Operadores.exe
+C:\Unip\c#\ConsoleAula02_Operadores\bin\Debug\net6.0\ConsoleAula02_Operadores.deps.json
+C:\Unip\c#\ConsoleAula02_Operadores\bin\Debug\net6.0\ConsoleAula02_Operadores.runtimeconfig.json
+C:\Unip\c#\ConsoleAula02_Operadores\bin\Debug\net6.0\ConsoleAula02_Operadores.dll
+C:\Unip\c#\ConsoleAula02_Operadores\bin\Debug\net6.0\ConsoleAula02_Operadores.pdb
+C:\Unip\c#\ConsoleAula02_Operadores\obj\Debug\net6.0\ConsoleAula02_Operadores.csproj.AssemblyReference.cache
+C:\Unip\c#\ConsoleAula02_Operadores\obj\Debug\net6.0\ConsoleAula02_Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unip\c#\ConsoleAula02_Operadores\obj\Debug\net6.0\ConsoleAula02_Operadores.AssemblyInfoInputs.cache
+C:\Unip\c#\ConsoleAula02_Operadores\obj\Debug\net6.0\ConsoleAula02_Operadores.AssemblyInfo.cs
+C:\Unip\c#\ConsoleAula02_Operadores\obj\Debug\net6.0\ConsoleAula02_Operadores.csproj.CoreCompileInputs.cache
+C:\Unip\c#\ConsoleAula02_Operadores\obj\Debug\net6.0\ConsoleAula02_Operadores.dll
+C:\Unip\c#\ConsoleAula02_Operadores\obj\Debug\net6.0\refint\ConsoleAula02_Operadores.dll
+C:\Unip\c#\ConsoleAula02_Operadores\obj\Debug\net6.0\ConsoleAula02_Operadores.pdb
+C:\Unip\c#\ConsoleAula02_Operadores\obj\Debug\net6.0\ConsoleAula02_Operadores.genruntimeconfig.cache
+C:\Unip\c#\ConsoleAula02_Operadores\obj\Debug\net6.0\ref\ConsoleAula02_Operadores.dll
